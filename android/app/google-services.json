@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "267915293438",
+    "project_id": "livenotes-91441",
+    "storage_bucket": "livenotes-91441.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267915293438:android:5b699d82a8074a1ad2abaf",
+        "android_client_info": {
+          "package_name": "com.example.live_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI-ie6YJGRSNXFvXLVp4TNsQfT_w4dliU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
