@@ -24,25 +24,32 @@ Kode ini berfungsi untuk memperbarui dokumen spesifik di Firebase Firestore. Den
  Buktikan bahwa data tersinkronisasi secara otomatis.
 ## Hasil
 - Tampilan awal
+- 
   ![WhatsApp Image 2025-11-24 at 17 07 01_c6ee7e67](https://github.com/user-attachments/assets/59d91586-e83a-49dc-915e-8de07f85c03a)
 
 - Membuat judul dan catatan baru
+- 
 ![WhatsApp Image 2025-11-24 at 16 39 23_f69a8041](https://github.com/user-attachments/assets/c2e0fdb8-7667-4e1e-aeed-a3c9946be9bb)
 
 - Hasil membuat judul dan catatan
+- 
 ![WhatsApp Image 2025-11-24 at 16 39 23_c5aa2237](https://github.com/user-attachments/assets/1b8740da-f08f-4a6e-a320-34f26f507f3b)
 
 -  Mengedit judul dan catatan
+-  
 ![WhatsApp Image 2025-11-24 at 16 39 22_f847a31b](https://github.com/user-attachments/assets/753f6d6b-e384-411a-8a44-be96742b4a6a)
 
 - hasil Mengedit judul dan catatan
+- 
 ![WhatsApp Image 2025-11-24 at 17 29 48_ca738703](https://github.com/user-attachments/assets/f7484df9-dd92-49ff-806a-18359a7b108d)
 
 
 - Hasil pada FIREBASE sebelum di ubah
+- 
 ![WhatsApp Image 2025-11-24 at 16 32 50_59a6ab27](https://github.com/user-attachments/assets/3de1be72-c8a4-4406-8bae-0be12732067f)
 
 - Hasil pada FIREBASE setelah diubah
+- 
   <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a77b904e-547b-4817-a329-504b8b9eae2a" />
   
   penjelasan :
